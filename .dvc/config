@@ -1,0 +1,4 @@
+[core]
+    remote = mydefault
+['remote "mydefault"']
+    url = /d/tpe/temp
